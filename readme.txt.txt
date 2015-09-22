@@ -1,0 +1,1 @@
+This file's programs were mostly used to play around with the twitter API, not for the main project. 
